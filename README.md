@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShevchenkoKate
+- 👀 I’m interested in web disign, programing games and mobile apps.
+- 🌱 I’m currently learning C#, Java, Swift.
+- 📫 How to reach me: write to my email ekaterinashev172004@gmail.com
